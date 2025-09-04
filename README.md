@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-	  <img src"https://preview.redd.it/is-1st-round-khamzat-the-best-fighter-in-ufc-history-v0-k1owj25jb8xd1.jpeg?width=1080&crop=smart&auto=webp&s=5acf3db6aa917e9341bead291eea2e4c7eb295d4">
+	  <img src="https://preview.redd.it/is-1st-round-khamzat-the-best-fighter-in-ufc-history-v0-k1owj25jb8xd1.jpeg?width=1080&crop=smart&auto=webp&s=5acf3db6aa917e9341bead291eea2e4c7eb295d4">
     <h1> Hi there, I'm abdul rafey<a href="https://hammad-air.github.io/hamza/"></h1>
   </div>
 <p align="center">
